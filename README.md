@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **miltonmasin@gmail.com**
 
+- 🤔 I am currently open to new job opportunities.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/milton masin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milton masin" height="30" width="40" /></a>
